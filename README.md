@@ -41,6 +41,8 @@ The course materials (PDFs, etc.) are listed in the subdirectories numbered #1 .
 ### Practical assignments (TD)
 The practical assignments are given on the courses #2 to #6. For the assignments, students are provided with the necessary data and Python code in the form of a disk image (.iso) to be mounted and booted from a virtual machine. They will hand in their source code and a max two page report, detailing their work, the difficulties encountered and the results. 
 
+Please install *VirtualBox* (https://www.virtualbox.org/) on your machine and load up the provided *disk_image.iso* before coming to the first TD. 
+
 ### Quizzes
 
 During the courses, we will use on-line quizzes (on the smartphone/computer) to probe comprehension and trigger discussion.
