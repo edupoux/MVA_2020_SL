@@ -20,7 +20,7 @@ Basic linear algebra, calculus, probability theory
 ## Organization
 
 ### Eight courses 
-The courses take place on monday, from 9am to 12am Be on time!
+The courses take place on monday, from **9am to 12am**. _Be on time!_
 
 - #1 Jan 22 (235B).     Introduction (Sagot & Dupoux)
 - #2 Jan 29 (Dussane).  ASR1: Features and Acoustic Models (Dupoux & Zeghidour) + TD
@@ -31,16 +31,17 @@ The courses take place on monday, from 9am to 12am Be on time!
 - #7 Mar 05 (Dussane).  Translation (Guest: Schwenk)
 - #8 Mar 12 (Dussane).  Perspectives (Sagot & Dupoux)
 
-235B: 29 rue d'Ulm, Paris 5,  2nd Floor.
-Dussane: 45 rue d'Ulm, Paris 5, Ground Floor (left)
-Actes: 45 rue d'Ulm, Paris 5, 1st Floor right.
+(235B): 29 rue d'Ulm, Paris 5,  2nd Floor.
+(Dussane): 45 rue d'Ulm, Paris 5, Ground Floor (left)
+(Actes): 45 rue d'Ulm, Paris 5, Salle des actes. 1st Floor right.
 
+The course materials (PDFs, etc.) are listed in the subdirectories numbered #1 .. #8. 
 
-### Practical assignments
-For the assignments, students are provided with the necessary data and Python code and will hand in their source code and a max two page report, detailing their work, the difficulties encountered and the results. 
+### Practical assignments (TD)
+The practical assignments are given on the courses #2 to #6. For the assignments, students are provided with the necessary data and Python code in the form of a disk image (.iso) to be mounted and booted from a virtual machine. They will hand in their source code and a max two page report, detailing their work, the difficulties encountered and the results. 
 
 ### Quizzes
 
-and 5 practical assignments plus Quizzes based around the implementation of key algorithms.
+During the courses, we will use on-line quizzes (on the smartphone/computer) to probe comprehension and trigger discussion.
 
 
