@@ -25,16 +25,16 @@ The courses take place on monday, from **9am to 12am**. _Be on time!_
 - #1 Jan 22 (235B).     Introduction (Sagot & Dupoux)
 - #2 Jan 29 (Dussane).  ASR1: Features and Acoustic Models (Dupoux & Zeghidour) + TD
 - #3 Feb 05 (Dussane).  ASR2: Language Models (Dupoux, Zeghidour, Riad) + TD
-- #4 Feb 12 (TBA).  NLP1: Language processing in the wild (Sagot) + TD
+- #4 Feb 12 (Toqueville).  NLP1: Language processing in the wild (Sagot) + TD
 - #5 Feb 19 (Dussane).  NLP2: Formal languages (Sagot) + TD
 - #6 Feb 26 (Dussane).  NLP3: Parsing (Sagot) + TD
 - #7 Mar 05 (Dussane).  Translation (Guest: Schwenk)
 - #8 Mar 12 (Actes).    Perspectives (Sagot & Dupoux)
 
-(235B): 29 rue d'Ulm, Paris 5, 2nd Floor, left.
-(Dussane): 45 rue d'Ulm, Paris 5, Ground Floor, left.
-(Actes): 45 rue d'Ulm, Paris 5, Salle des actes, 1st Floor, right.
-(TBA): The room is still unspecified, keep checking this repo for updates.
+(235B): 29 rue d'Ulm, Paris 75005, 2nd Floor, left.
+(Dussane): 45 rue d'Ulm, Paris 75005, Amphi Dussane, Ground Floor, left.
+(Actes): 45 rue d'Ulm, Paris 75005, Salle des actes, 1st Floor, right.
+(Toqueville): 61 Avenue du Président Wilson, 94230 Cachan, Batiment d'Alembert, Amphi Tocqueville.
 
 The course materials (PDFs, etc.) are listed in the subdirectories numbered #1 .. #8. 
 
