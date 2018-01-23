@@ -1,3 +1,9 @@
 # MVA. Algorithms for speech and natural language processing
-# Course 1. General Introduction
+# General Introduction
 
+## Professors
+E. Dupoux, B. Sagot
+
+## Reading materials
+
+- Course pdf.
