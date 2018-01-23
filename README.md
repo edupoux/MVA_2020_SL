@@ -1,4 +1,8 @@
 # Algorithms for speech and natural language processing (MVA 2018)
+
+## Contact information
+For any question/request related to this course, please send an email to this address: mva.speech.language@gmail.com
+
 # Course materials
 
 ## Course Objectives
