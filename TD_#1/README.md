@@ -32,9 +32,11 @@ Then, you still need one package for that environment,
 ## Virtual Machine
 On this machine you will find all the necessary tools needed to complete the TD.
 To download it, click [here](http://coml.lscp.ens.fr/owncloud/index.php/s/l52gd5FSaqdcLR2) to retrieve the .ova file, which you can use with Virtual Box.
+The password to retrieve the file is "MVA".
 
 ### How to load the .ova
 To load the .ova and start using your virtual machine, simply open virtualbox, click on *import appliance*, point to the .ova file, and you're ready to go.
+Once the machine is ready, you can login with id:vagrant and password:vagrant.
 
 ### Load conda environment
 To start using the pre installed tools in the virtual machine, 
