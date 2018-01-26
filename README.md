@@ -27,7 +27,7 @@ Basic linear algebra, calculus, probability theory
 The courses take place on monday, from **9am to 12am**. _Be on time!_
 
 - #1 Jan 22 (235B).     Introduction (Sagot & Dupoux)
-- #2 Jan 29 (Dussane).  ASR1: Features and Acoustic Models (Dupoux & Zeghidour) + TD
+- #2 Jan 29 (Dussane).  ASR1: Features and Acoustic Models (Dupoux & Zeghidour) + TD (see TD_#1)
 - #3 Feb 05 (Dussane).  ASR2: Language Models (Dupoux, Zeghidour, Riad) + TD
 - #4 Feb 12 (Toqueville).  NLP1: Language processing in the wild (Sagot) + TD
 - #5 Feb 19 (Dussane).  NLP2: Formal languages (Sagot) + TD
@@ -43,9 +43,9 @@ The courses take place on monday, from **9am to 12am**. _Be on time!_
 The course materials (PDFs, etc.) are listed in the subdirectories numbered #1 .. #8. 
 
 ### Practical assignments (TD)
-The practical assignments are given on the courses #2 to #6. For the assignments, students are provided with the necessary data and Python code in the form of a disk image (.iso) to be mounted and booted from a virtual machine. They will hand in their source code and a max two page report, detailing their work, the difficulties encountered and the results. 
+The practical assignments are given on the courses #2 to #6. For the assignments, students are provided with the necessary data and Python code, either as a list of requirements to install or in the form of a disk image (.ova) to be mounted and booted from a virtual machine. They will hand in their source code and a max two page report, detailing their work, the difficulties encountered and the results. 
 
-Please install *VirtualBox* (https://www.virtualbox.org/) on your machine and load up the provided *disk_image.iso* before coming to the first TD. 
+If you wish to use the Virtual Machine (may be necessary for people on windows for example), please install *VirtualBox* (https://www.virtualbox.org/) on your machine and load up the provided *disk_image.ova* before coming to the first TD. 
 
 ### Quizzes
 
