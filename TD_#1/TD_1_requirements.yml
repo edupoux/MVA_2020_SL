@@ -1,0 +1,11 @@
+name: 'TD_1'
+channels:
+    - 'conda-forge'
+    - 'defaults'
+dependencies:
+    - 'numpy'
+    - 'librosa'
+    - 'scipy'
+    - 'scikit-learn=0.19.1'
+    - 'matplotlib'
+    - 'cython'
