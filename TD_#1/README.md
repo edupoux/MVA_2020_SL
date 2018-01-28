@@ -14,7 +14,7 @@ If you encounter any problem, you can contact us and we can help you debug it.
 Download the Google Speech Commands dataset here:
 http://download.tensorflow.org/data/speech_commands_v0.01.tar.gz
 and unpack it.
- 
+
 ## Conda
 For this TD, you will only need a few python packages.
 ### Packages installation
@@ -44,7 +44,7 @@ Download the "Speech_Commands.ipynb" notebook. Run Jupyter:
 ```
 jupyter notebook --notebook-dir=~/
 ```
-Then you can load the notebook, and select the kernel "TD_1".
+Then you can load the notebook, and select the kernel "TD_1". "test_tp1.ipynb" just allows you to test that your environment contains all needed packages.
 
 ## Virtual Machine
 On this machine you will find all the necessary tools needed to complete the TD.
