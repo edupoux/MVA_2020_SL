@@ -9,6 +9,12 @@ For this TD you will need python-anaconda, or virtualbox.
 If you decide to use the virtual machine, please install it before coming to class, and try it out at least once before coming to class, as it may be slow.
 If you encounter any problem, you can contact us and we can help you debug it.
 
+# Dataset
+
+Download the Google Speech Commands dataset here:
+http://download.tensorflow.org/data/speech_commands_v0.01.tar.gz
+and unpack it.
+ 
 ## Conda
 For this TD, you will only need a few python packages.
 ### Packages installation
