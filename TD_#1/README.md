@@ -4,6 +4,10 @@ MVA - Algorithms for Speech and NLP TD
 ## Contact Information
 For any question/request related to this course, please send an email to this address: mva.speech.language@gmail.com
 
+## Handing the assignment
+
+Send your notebook with your modifications, printed results and comments (in markdown cells) to mva.speech.language@gmail.com before the next class on Monday, February 5th. Please start the title of your email with "TP1".
+
 ## TD
 For this TD you will need python-anaconda, or virtualbox.
 If you decide to use the virtual machine, please install it before coming to class, and try it out at least once before coming to class, as it may be slow.
