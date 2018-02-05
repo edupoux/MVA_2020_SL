@@ -15,7 +15,7 @@ If you encounter any problem, you can contact us and we can help you debug it.
 
 ## Virtual Machine
 On this machine you will find all the necessary tools needed to complete the TD.
-The password to retrieve the file is "". The Virtual Machine is big, it has a size of 6.5 Go, so the download may be slow.
+The Virtual Machine is big, it has a size of 6.5 Go, so the download may be slow.
 
 ### How to load the .ova
 To load the .ova and start using your virtual machine, simply open virtualbox, click on *import appliance*, point to the .ova file, and you're ready to go.
