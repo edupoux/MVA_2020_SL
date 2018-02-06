@@ -10,7 +10,7 @@ Send your notebook with your modifications, printed results and comments (in mar
 
 ## TD
 For this TD you will need virtualbox. We *strongly* advise to use the virtualbox
-to avoid the installation issues due to C++ bindings with Python. Please download the [virtual machine](http://coml.lscp.ens.fr/owncloud/index.php/s/uZHjspiB3k2sFHq/download) ([mirror]() coming tomorrow)
+to avoid the installation issues due to C++ bindings with Python. Please download the [virtual machine](http://coml.lscp.ens.fr/owncloud/index.php/s/uZHjspiB3k2sFHq/download) ([Dropbox mirror](https://www.dropbox.com/s/a9lb08sil6p0aov/TD2_MVA_SL.ova?dl=0) )
 If you encounter any problem, you can contact us and we can help you debug it.
 
 ## Virtual Machine
@@ -91,3 +91,17 @@ Then
 ```
 pip install openfst --global-option=build_ext --global-option="-I/home/${user}/openfst/build/include" --global-option="-L/home/${user}/openfst/build/lib"
 ```
+
+### Reported Issues with the Virtual machine
+
+- Thanks **Budin Joseph**: If you have issues due to shared folder path between host and guest, go to configuration, 'shared folders' tab, and disable the default shared folder.
+
+- Thanks ** Marin Scalbert**: If you have a Mac, you might encouter network issues like this one:
+
+```
+Could not start the machine old_vm because the following physical network interfaces were not found:
+
+vboxnet0 (adapter 2), vboxnet0 (adapter 3)
+```
+
+You should change network2 and network3 option from 'network host' to 'no host'.
