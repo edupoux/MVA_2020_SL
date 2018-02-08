@@ -96,12 +96,23 @@ pip install openfst --global-option=build_ext --global-option="-I/home/${user}/o
 
 - Thanks **Budin Joseph**: If you have issues due to shared folder path between host and guest, go to configuration, 'shared folders' tab, and disable the default shared folder.
 
-- Thanks ** Marin Scalbert**: If you have a Mac, you might encouter network issues like this one:
+- Thanks **Marin Scalbert**: If you have a Mac, you might encouter network issues like this one:
 
 ```
 Could not start the machine old_vm because the following physical network interfaces were not found:
 
 vboxnet0 (adapter 2), vboxnet0 (adapter 3)
 ```
-
 You should change network2 and network3 option from 'network host' to 'no host'.
+
+- Thanks **Thibault Séjourné**
+It seems for Ubuntu Users that you have to unzip the .ova file to import it to an .ovf.
+```
+tar xvf <file.ova>
+```
+
+To check if your download worked, here is the output of `md5 TD2_MVA_SL.ova`:
+
+```
+MD5 (TD2_MVA_SL.ova) = 730f24c07717b533c677ba4c1c2a464f
+```
