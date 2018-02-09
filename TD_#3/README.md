@@ -22,9 +22,9 @@ Beyond these constraints, you are free to do whatever you feel useful. You can t
 
 ## Assignment deliverable
 Your assignment will be sent in the form of a tgz archive that will contain:
-1. a 2-page report (font size 11pt, reasonable margins, PDF format, in English or French) **named MVA\_TP3\__LASTNAME_\__Firstname_\_report.pdf** containing 2 sections:
-     - a first section (1 page) describing how your system works, why you decided to design it the way you did, how you built it, which existing software and resources you used, and which software and resources you developed yourself, why, and how,
-     - a second section (1 page) describing which cases are correctly handled by your system, which cases are not handled or not properly handled (overnormalisations and missed normalisations), a brief discussion about the causes of these errors and a few thoughts about how your system could be improved
+1. a report (min 1 full page, max 2 full pages, font size 11pt, reasonable margins, PDF format, in English or French) **named MVA\_TP3\__LASTNAME_\__Firstname_\_report.pdf** containing 2 sections:
+     - a first section describing how your system works, why you decided to design it the way you did, how you built it, which existing software and resources you used, and which software and resources you developed yourself, why, and how,
+     - a second section describing which cases are correctly handled by your system, which cases are not handled or not properly handled (overnormalisations and missed normalisations), a brief discussion about the causes of these errors and a few thoughts about how your system could be improved
 2. a folder named *system* containing your system. This folder will contain (at least):
      - a shell script named run_system.sh that takes as a first argument the path to a raw corpus to be normalised; this script will assume that the context2vec directory is stored in the variable $CONTEXT2VECDIR
      - a README file describing other options or argument to run_system.sh (or explicitely stating the absence thereof)
