@@ -8,8 +8,8 @@ For any question/request related to this course, please send an email to this ad
 You will have to develop a normalisation system that can change raw English tweets into (partially) normalised tweets, suitable for further NLP processing.
 
 Your system will have to use two types of information for performing this normalisation task:
-- contextual information (the context surrounding a given position helps guessing which correct word are possible in this position)
-- formal similarity (a misspelled/non-standard word is usually similar to its correct counterpart)
+      - contextual information (the context surrounding a given position helps guessing which correct word are possible in this position)
+      - formal similarity (a misspelled/non-standard word is usually similar to its correct counterpart)
 
 You are advised to program your system in Python, but this is not mandatory (although using context2vec makes Python a reasonable choice)
 
@@ -30,6 +30,6 @@ Your assignment will be sent in the form of a tgz archive that will contain:
 ## Handing the assignment
 Send your tgz archive to mva.speech.language@gmail.com before the next class on Monday, February 19th. You must follow the following naming conventions:
 1. Start the title of your email with "TP3".
-2. Name your tgz archive according to the following pattern: MVA_TP3_<LastName>_<FirstName>.tgz
+2. Name your tgz archive according to the following pattern: MVA_TP3_<i>LastName</i>_<i>FirstName</i>.tgz
 
 
