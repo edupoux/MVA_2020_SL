@@ -22,7 +22,7 @@ Beyond these constraints, you are free to do whatever you feel useful. You can t
 
 ## Assignment deliverable
 Your assignment will be sent in the form of a tgz archive that will contain:
-1. a 2-page report (font size 11pt, reasonable margins, PDF format, in English or French) named MVA\_TP3\__LastName_\__FirstName_\_report.pdf containing 2 sections:
+1. a 2-page report (font size 11pt, reasonable margins, PDF format, in English or French) **named MVA\_TP3\__LASTNAME_\__Firstname_\_report.pdf** containing 2 sections:
      - a first section (1 page) describing how your system works, why you decided to design it the way you did, how you built it, which existing software and resources you used, and which software and resources you developed yourself, why, and how,
      - a second section (1 page) describing which cases are correctly handled by your system, which cases are not handled or not properly handled (overnormalisations and missed normalisations), a brief discussion about the causes of these errors and a few thoughts about how your system could be improved
 2. a folder named *system* containing your system. This folder will contain (at least):
@@ -32,6 +32,6 @@ Your assignment will be sent in the form of a tgz archive that will contain:
 ## Handing the assignment
 Send your tgz archive to mva.speech.language@gmail.com before the next class on Monday, February 19th. You must follow the following naming conventions:
 1. Start the title of your email with "TP3".
-2. Name your tgz archive according to the following pattern: MVA\_TP3\__LastName_\__FirstName_.tgz
+2. Name your tgz archive according to the following pattern: MVA\_TP3\__LASTNAME_\__Firstname_.tgz
 
 
