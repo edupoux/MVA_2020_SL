@@ -13,11 +13,11 @@ Your system will have to use two types of information for performing this normal
 
 You are advised to program your system in Python, but this is not mandatory (although using context2vec makes Python a reasonable choice)
 
-For dealing with contextual information, you will use the *context2vec* program: https://github.com/orenmel/context2vec
+For dealing with contextual information, you will use the [*context2vec* program](https://github.com/orenmel/context2vec).
 
 For dealing with formal similarity, you will use the notion of edit distance as computed by the Levenshtein algortithm (or any improvement thereof that you would prefer). You are requested to code yourself the algorithm using dynamic programming (i.e. you are not allowed to use an existing package for computing edit distance).
 
-Beyond these constraints, you are free to do whatever you feel useful. You can train context2vec models or use existing ones (if you want to re-train context2vec, you will need a training corpus; see for instance ). You can develop a training corpus and learn whatever you want on this corpus (e.g. the way to combine contextual and formal similarity information), or you can use a fully unsupervised approach. You can also develop complementary resources: normalisation lexicon, word embeddings such as those provided by GloVe (tweet-based embeddings available, see [here]https://nlp.stanford.edu/projects/glove/), etc. You can design ways to deal with one-to-many (e.g. _ttyl_ -> _talk to you later_)  and even many-to-many mappings, or chose to only deal with one-to-one mappings.
+Beyond these constraints, you are free to do whatever you feel useful. You can train context2vec models or use existing ones (if you want to re-train context2vec, you will need a training corpus; see for instance ). You can develop a training corpus and learn whatever you want on this corpus (e.g. the way to combine contextual and formal similarity information), or you can use a fully unsupervised approach. You can also develop complementary resources: normalisation lexicon, word embeddings such as those provided by GloVe (tweet-based embeddings available, see [here](https://nlp.stanford.edu/projects/glove/)), etc. You can design ways to deal with one-to-many (e.g. _ttyl_ -> _talk to you later_)  and even many-to-many mappings, or chose to only deal with one-to-one mappings.
 
 
 ## Assignment deliverable
