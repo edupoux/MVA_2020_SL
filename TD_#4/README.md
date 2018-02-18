@@ -39,9 +39,9 @@ Your assignment will be sent in the form of a tgz archive that will contain:
      - a second section with a brief error analysis: what seems to work, what does not? Any idea why? What would you
        suggest to improve your parser?
 2. a folder named `parser` containing your parser. This folder will contain (at least):
-     - a shell script named run_parser.sh that reads tokenised text on the standard input (one sentence per line,
+     - a shell script named `run_parser.sh` that reads tokenised text on the standard input (one sentence per line,
        exactly one whitespace between each word)
-     - a README file describing other options or argument to run_parser.sh (or explicitely stating the absence thereof)
+     - a `README` file describing other options or argument to run_parser.sh (or explicitely stating the absence thereof)
 
 ## Handing the assignment
 Send your tgz archive to mva.speech.language@gmail.com before the next class on Monday, February 26th. You must follow the following naming conventions:
