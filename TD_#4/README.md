@@ -12,7 +12,8 @@ If you need more information about the CYK algorithm, read [the most
 recent version of Jurafsky and Martin's chapter on Syntactic Parsing](https://web.stanford.edu/~jurafsky/slp3/12.pdf). If you need more information about PCFGs,
 read [the most recent version of Jurafsky and Martin's chapter on Statistical Parsing](https://web.stanford.edu/~jurafsky/slp3/13.pdf).
 
-Use the sequoia treebank v6.0 (file in the GitHub, bracketed format):
+Use the SEQUOIA treebank v6.0 (file in the GitHub, bracketed format):
+
      - Split it into 3 parts (80% / 10% / 10%)
      - Use the 80% for training (extract CFG rules + learn CFG rule probabilities)
      - Use the first 10% for development purposes (whatever you want to use them for)
