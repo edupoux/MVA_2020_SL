@@ -8,9 +8,9 @@ For any question/request related to this course, please send an email to this ad
 **The goal of this assignment is to develop a basic probabilistic parser for French based on the CYK algorithm and the
 PCFG model.**
 
-If you need more information about the CYK algorithm, read [https://web.stanford.edu/~jurafsky/slp3/12.pdf](the most
-recent version of Jurafsky and Martin's chapter on Syntactic Parsing). If you need more information about PCFGs,
-read [https://web.stanford.edu/~jurafsky/slp3/13.pdf](the most recent version of Jurafsky and Martin's chapter on Statistical Parsing).
+If you need more information about the CYK algorithm, read [the most
+recent version of Jurafsky and Martin's chapter on Syntactic Parsing](https://web.stanford.edu/~jurafsky/slp3/12.pdf). If you need more information about PCFGs,
+read [the most recent version of Jurafsky and Martin's chapter on Statistical Parsing](https://web.stanford.edu/~jurafsky/slp3/13.pdf).
 
 Use the sequoia treebank v6.0 (file in the GitHub, bracketed format):
      - Split it into 3 parts (80% / 10% / 10%)
