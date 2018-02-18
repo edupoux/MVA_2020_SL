@@ -22,8 +22,11 @@ Use the SEQUOIA treebank v6.0 (file in the GitHub, bracketed format):
 IMPORTANT: I strongly advice you ignore the functional labels: whenever you find a hyphen in a non-terminal name, ignore
 it and everything that follows.
 For instance, let us consider the sentence:
+
         ( (SENT (PP-MOD (P En) (NP (NC 1996))) (PONCT ,) (NP-SUJ (DET la) (NC municipalité)) (VN (V étudie)) (NP-OBJ (DET la) (NC possibilité) (PP (P d') (NP (DET une) (NC construction) (AP (ADJ neuve))))) (PONCT .)))
+
 I recommend you interpret it as:
+		
         ( (SENT (PP (P En) (NP (NC 1996))) (PONCT ,) (NP (DET la) (NC municipalité)) (VN (V étudie)) (NP (DET la) (NC possibilité) (PP (P d') (NP (DET une) (NC construction) (AP (ADJ neuve))))) (PONCT .)))
 Otherwise you might face sparsity issues.
 
