@@ -23,6 +23,6 @@ Your assignment will be sent in the form of a tgz archive that will contain A 1-
 questions, with examples. The report will be named **named MVA\_TP5\__LASTNAME_\__Firstname_\_report.pdf**.
 
 ## Handing the assignment
-Send your report in PDF format to mva.speech.language@gmail.com before the next class on Monday, March 5th. Your report must be named as follows: **MVA\_TP4\__LASTNAME_\__Firstname_.pdf**
+Send your report in PDF format to mva.speech.language@gmail.com before the next class on Monday, March 5th. Your report must be named as follows: **MVA\_TP5\__LASTNAME_\__Firstname_.pdf**
 
 
