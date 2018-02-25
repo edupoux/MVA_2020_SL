@@ -1,6 +1,8 @@
 MVA - Algorithms for Speech and NLP TD 5
 ========================================
 
+Note: this assignment will count 4 times less than the other four assignments.
+
 ## Contact Information
 For any question/request related to this course, please send an email to this address: mva.speech.language@gmail.com
 
