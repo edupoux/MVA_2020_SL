@@ -12,7 +12,7 @@ For any question/request related to this course, please send an email to this ad
 Use whichever (freely available) machine translation system (e.g. Google Translate) to investigate the following questions:
 
 - Which syntactic constructions are correctly translated? Which ones are not? Can you guess why?
-- What about questions, long and/or complex sentences, sentences in the first person, idioms (kick the bucket vs. casser sa pipe), named entities (London)…
+- What about questions, long and/or complex sentences, sentences in the first person, idioms (_kick the bucket_ vs. _casser sa pipe_), named entities (_London_)…
 - What is the influence of the language pair? Cf. English<->French vs. English<->Chinese or English<->(a rare language)
 - What is the influence of the context. E.g., how are the following discourse translated (English <-> French):
       - (en>fr) _A mouse appeared. It looked hungry._
