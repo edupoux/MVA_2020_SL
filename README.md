@@ -1,4 +1,4 @@
-# Algorithms for speech and natural language processing (MVA 2018)
+# Algorithms for speech and natural language processing (MVA 2019)
 
 ## Contact information
 For any question/request related to this course, please send an email to this address: mva.speech.language@gmail.com
@@ -35,12 +35,12 @@ The courses take place on monday, from **9am to 12am**. _Be on time!_
 - #7 Mar 05 (Dussane).  Translation (Guest: Schwenk)
 - #8 Mar 12 (Actes).    Perspectives (Sagot & Dupoux)
 
-(235B): 29 rue d'Ulm, Paris 75005, 2nd Floor, left.
 (Dussane): 45 rue d'Ulm, Paris 75005, Amphi Dussane, Ground Floor, left.
-(Actes): 45 rue d'Ulm, Paris 75005, Salle des actes, 1st Floor, right.
-(Toqueville): 61 Avenue du Président Wilson, 94230 Cachan, Batiment d'Alembert, Amphi Tocqueville.
 
 The course materials (PDFs, etc.) are listed in the subdirectories numbered #1 .. #8. 
+
+### Validation
+The validation is continuous: there is no final exam, but a combination of quizzes during the lessons (20%) and two practical assignments (TDs), (40% each). ATTENTION: since there is no exam, there is no possibility of "rattrapage" (ie, of compensating a bad mark by taking another exam). So, if the overall grade obtained in this course is less than 10/20, this course will be considered not validated by the MVA Master. 
 
 ### Practical assignments (TD)
 The practical assignments are given on the courses #2 to #6. For the assignments, students are provided with the necessary data and Python code, either as a list of requirements to install or in the form of a disk image (.ova) to be mounted and booted from a virtual machine. They will hand in their source code and a max two page report, detailing their work, the difficulties encountered and the results. 
