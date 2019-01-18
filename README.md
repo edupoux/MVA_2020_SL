@@ -24,31 +24,30 @@ Basic linear algebra, calculus, probability theory
 ## Organization
 
 ### Eight courses 
-The courses take place on monday, from **9am to 12am**. _Be on time!_
+The courses take place on monday, from **9am to 11/12am** . _Be on time!_
+Attendance is mandatory.
 
-- #1 Jan 22 (235B).     Introduction (Sagot & Dupoux)
-- #2 Jan 29 (Dussane).  ASR1: Features and Acoustic Models (Dupoux & Zeghidour) + TD (see TD_#1)
-- #3 Feb 05 (Dussane).  ASR2: Language Models (Dupoux, Zeghidour, Riad) + TD
-- #4 Feb 12 (Toqueville).  NLP1: Language processing in the wild (Sagot) + TD
-- #5 Feb 19 (Dussane).  NLP2: Formal languages (Sagot) + TD
-- #6 Feb 26 (Dussane).  NLP3: Parsing (Sagot) + TD
-- #7 Mar 05 (Dussane).  Translation (Guest: Schwenk)
-- #8 Mar 12 (Actes).    Perspectives (Sagot & Dupoux)
+- #1 Jan 28, 9am:11am (Dussane).  Introduction (Sagot & Dupoux)
+- #2 Feb 04, 9am:11am (Dussane).  ASR1: Features and Acoustic Models (Dupoux & Zeghidour)
+- #3 Feb 11, 9am:12am (Dussane).  ASR2: Language Models (Dupoux, Zeghidour, Riad) + presentation TD
+- #4 Feb 18, 9am:11am (Dussane).  NLP1: Language processing in the wild (Sagot)
+- #5 Feb 25, 9am:11am (Dussane).  NLP2: Formal languages (Sagot)
+- #6 Mar 4,  9am:12am (Dussane).  NLP3: Parsing (Sagot) + presentation TD
+- #7 Mar 11, 9am:12am (Dussane).  Translation (Guest: Schwenk)
+- #8 Mar 18, 9am:12am (Dussane).  Perspectives (Sagot & Dupoux)
 
 (Dussane): 45 rue d'Ulm, Paris 75005, Amphi Dussane, Ground Floor, left.
 
 The course materials (PDFs, etc.) are listed in the subdirectories numbered #1 .. #8. 
 
 ### Validation
-The validation is continuous: there is no final exam, but a combination of quizzes during the lessons (20%) and two practical assignments (TDs), (40% each). ATTENTION: since there is no exam, there is no possibility of "rattrapage" (ie, of compensating a bad mark by taking another exam). So, if the overall grade obtained in this course is less than 10/20, this course will be considered not validated by the MVA Master. 
+The validation is continuous: there is no final exam, but a combination of quizzes during the lessons (20%) and two practical assignments (TDs), (40% each). ATTENTION: since there is no exam, there is no possibility of "rattrapage" (ie, of compensating a bad mark by taking another exam). So, if the overall grade obtained in this course is less than 10/20, this course will not be considered validated by the MVA Master. 
 
 ### Practical assignments (TD)
-The practical assignments are given on the courses #2 to #6. For the assignments, students are provided with the necessary data and Python code, either as a list of requirements to install or in the form of a disk image (.ova) to be mounted and booted from a virtual machine. They will hand in their source code and a max two page report, detailing their work, the difficulties encountered and the results. 
-
-If you wish to use the Virtual Machine (may be necessary for people on windows for example), please install *VirtualBox* (https://www.virtualbox.org/) on your machine and load up the provided *disk_image.ova* before coming to the first TD. 
+The practical assignments are given on the courses #3 and #6. There will be one assignment for the speech part and one for the NLP part. For each assignment, students are provided with the necessary data and Python code, either as a list of requirements to install or in the form of a disk image (.ova) to be mounted and booted from a virtual machine. They will hand in their source code and a max two page report, detailing their work, the difficulties encountered and the results. Students will have a max of 2 weeks to complete the assignment; assignment will be graded from 0 to 20, with a -1 point removed from the score for each day of being late. Each assignment will count for 40% of the final grade. We may organise special Q&A sessions regarding these assignments from 11am to 12am upon request.
 
 ### Quizzes
 
-During the courses, we will use on-line quizzes (on the smartphone/computer) to probe comprehension and trigger discussion.
+During the courses, we will use on-line quizzes (on the smartphone/computer) to probe comprehension and trigger discussion. The quizzes will be used (1) to check that you attend the course, (2) that you have read the supporting documents and are following what is being presented. Each quiz will be graded as follows: 0 (no response), 1 (wrong response), 2 (good response). The scores will be averaged and converted from on a 0 to 20 scale. If there are N quizzes, we will use the N-1 best scores for averaging. The overall score will count for 20% of the final grade.    
 
 
