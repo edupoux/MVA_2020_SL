@@ -51,3 +51,9 @@ The practical assignments are given on the courses #3 and #6. There will be one 
 During the courses, we will use on-line quizzes (on the smartphone/computer) to probe comprehension and trigger discussion. The quizzes will be used (1) to check that you attend the course, (2) that you have read the supporting documents and are following what is being presented. Each quiz will be graded as follows: 0 (no response), 1 (wrong response), 2 (good response). The scores will be averaged and converted from on a 0 to 20 scale. If there are N quizzes, we will use the N-1 best scores for averaging. The overall score will count for 20% of the final grade.    
 
 
+### Q&A
+
+_What happens if i am ill and cannot attend one course?_
+
+Presence to the course is mandatory. Each unattended course will give rise to points substracted to the final grade unless they are motivated by a medical doctor's statement. This document should be sent to mva.speech.language@gmail.com together with the name and date of missed lesson.
+
