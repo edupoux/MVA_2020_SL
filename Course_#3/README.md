@@ -16,4 +16,4 @@ Computer Speech & Language, 16(1):69–88.
 
 ## Practical Assignments
 
-See this [page](../TD_#2).
+See this [page](../TD_#1).

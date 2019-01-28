@@ -8,6 +8,5 @@ N. Zeghidour, E. Dupoux
 ## Reading Materials
 
 
-## Practical Assignments
 
 
