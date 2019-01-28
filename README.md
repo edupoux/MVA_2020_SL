@@ -55,5 +55,5 @@ During the courses, we will use on-line quizzes (on the smartphone/computer) to 
 
 _What happens if i am ill and cannot attend one course?_
 
-Presence to the course is mandatory. Each unattended course will give rise to points substracted to the final grade unless they are motivated by a medical doctor's statement. This document should be sent to mva.speech.language@gmail.com together with the name and date of missed lesson.
+Presence to the course is mandatory. Each unattended course will give rise to points substracted to the final grade unless they are motivated by an official document, like a medical doctor's statement. This document should be sent to mva.speech.language@gmail.com together with the name and date of missed lesson.
 
