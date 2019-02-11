@@ -32,4 +32,4 @@ University: http://web.stanford.edu/class/cs97si/04-dynamic-programming.pdf
 
 It is available as a python notebook here:  https://goo.gl/mxA5NE
  
-For more details, see this [page](../../../tree/master/TD_#1/).
+For more details, see this [page](../../../tree/master/TD_%231/).
