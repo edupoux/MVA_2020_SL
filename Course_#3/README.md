@@ -31,5 +31,7 @@ University: http://web.stanford.edu/class/cs97si/04-dynamic-programming.pdf
 # Practical Assignment
 
 It is available as a python notebook here:  https://goo.gl/mxA5NE
- 
+
+Works on Chrome and Safari. Does not work on Mozilla
+
 For more details, see this [page](../../../tree/master/TD_%231/).
