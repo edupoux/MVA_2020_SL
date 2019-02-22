@@ -37,6 +37,10 @@ Attendance is mandatory.
 - #5 Feb 25, 4:00pm-6:00pm (Dussane).  NLP2: Formal languages (Sagot) __(Attention, 4:00pm instead of 9:00am)__
 - #6 Mar 4,   9:00am-12:00am (Dussane).  NLP3: Parsing (Sagot) + presentation TD#2
 - #7 Mar 11, 9:30am-11:30am (Dussane).  Translation (Guest: Schwenk) __(Attention, 9:30am instead of 9:00am)__
+
+
+**Attention, deadline for returning TD#2 on Monday Mar 18 at 12am: penalty points for late submission start here**
+
 - #8 Mar 18, 9:00am-12:00am (Dussane).  Perspectives (Sagot & Dupoux)
 
 (Dussane): 45 rue d'Ulm, Paris 75005, Amphi Dussane, Ground Floor, left.
