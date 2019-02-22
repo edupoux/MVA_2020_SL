@@ -31,7 +31,7 @@ Attendance is mandatory.
 - #2 Feb 04, 9:00am-11:00am (Dussane).  ASR1: Features and Acoustic Models (Dupoux & Zeghidour)
 - #3 Feb 11, 9:00am-12:00am (Dussane).  ASR2: Language Models (Dupoux, Zeghidour, Riad) + presentation TD
 - #4 Feb 18, 9:00am-11:00am (Dussane).  NLP1: Language processing in the wild (Sagot)
-- #5 Feb 25, 9:00am-11:00am (Dussane).  NLP2: Formal languages (Sagot)
+- #5 Feb 25, 9:00am-11:00am (Dussane).  NLP2: Formal languages (Sagot) __(Attention, 16:00 instead of 9:00)__
 - #6 Mar 4,   9:00am-12:00am (Dussane).  NLP3: Parsing (Sagot) + presentation TD
 - #7 Mar 11, 9:30am-11:30am (Dussane).  Translation (Guest: Schwenk) __(Attention, 9:30 instead of 9:00)__
 - #8 Mar 18, 9:00am-12:00am (Dussane).  Perspectives (Sagot & Dupoux)
