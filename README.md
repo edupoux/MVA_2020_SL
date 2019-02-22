@@ -24,7 +24,7 @@ Basic linear algebra, calculus, probability theory
 ## Organization
 
 ### Eight courses 
-The courses take place on monday, from **9am to 11/12am** . _Be on time!_
+The courses take place on monday, usually from 9am to 11/12am (but there are exceptions, see below). _Be on time!_
 Attendance is mandatory.
 
 - #1 Jan 28,  9:00am-11:00am (Dussane).  Introduction (Sagot & Dupoux)
