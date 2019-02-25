@@ -24,16 +24,23 @@ Basic linear algebra, calculus, probability theory
 ## Organization
 
 ### Eight courses 
-The courses take place on monday, from **9am to 11/12am** . _Be on time!_
+The courses take place on monday, usually from 9am to 11/12am (but there are exceptions, see below). _Be on time!_
 Attendance is mandatory.
 
 - #1 Jan 28,  9:00am-11:00am (Dussane).  Introduction (Sagot & Dupoux)
 - #2 Feb 04, 9:00am-11:00am (Dussane).  ASR1: Features and Acoustic Models (Dupoux & Zeghidour)
-- #3 Feb 11, 9:00am-12:00am (Dussane).  ASR2: Language Models (Dupoux, Zeghidour, Riad) + presentation TD
+- #3 Feb 11, 9:00am-12:00am (Dussane).  ASR2: Language Models (Dupoux, Zeghidour, Riad) + presentation TD#1
 - #4 Feb 18, 9:00am-11:00am (Dussane).  NLP1: Language processing in the wild (Sagot)
+
+**Attention, deadline for returning TD#1 on Monday Feb 25 at 12am: penalty points for late submission start here**
+
 - #5 Feb 25, 4:00pm-6:00pm (Dussane).  NLP2: Formal languages (Sagot) __(Attention, 4:00pm instead of 9:00am)__
-- #6 Mar 4,   9:00am-12:00am (Dussane).  NLP3: Parsing (Sagot) + presentation TD
+- #6 Mar 4,   9:00am-12:00am (Dussane).  NLP3: Parsing (Sagot) + presentation TD#2
 - #7 Mar 11, 9:30am-11:30am (Dussane).  Translation (Guest: Schwenk) __(Attention, 9:30am instead of 9:00am)__
+
+
+**Attention, deadline for returning TD#2 on Monday Mar 18 at 12am: penalty points for late submission start here**
+
 - #8 Mar 18, 9:00am-12:00am (Dussane).  Perspectives (Sagot & Dupoux)
 
 (Dussane): 45 rue d'Ulm, Paris 75005, Amphi Dussane, Ground Floor, left.
