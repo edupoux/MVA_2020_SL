@@ -70,9 +70,9 @@ recent version of Jurafsky and Martin's chapter on Syntactic Parsing](https://we
 
 
 ## Assignment deliverable
-Your assignment will be sent in the form of a folder **named according to the  pattern `MVA\_TD2\__LASTNAME_\__Firstname`** that
+Your assignment will be sent in the form of a folder **named according to the  pattern `MVA_TD2_LASTNAME_Firstname`** that
 contains two elements:
-1. a report (**at least 1 full page, at most 2 full pages, font size 11pt**, reasonable margins, PDF format, in English or French) **named `MVA\_TD2\__LASTNAME_\__Firstname_\_report.pdf`** containing 2 sections:
+1. a report (**at least 1 full page, at most 2 full pages, font size 11pt**, reasonable margins, PDF format, in English or French) **named `MVA_TD2_LASTNAME_Firstname_report.pdf`** containing 2 sections:
      - a first section describing your work, how things work, and the
        rationale behind the choices you made,
      - a second section with a brief error analysis: what seems to work, what does not? Any idea why? What would you
@@ -92,7 +92,8 @@ contains two elements:
 ## Handing the assignment
 Send your tgz archive to mva.speech.language@gmail.com before the  class on Monday, March 18th. You must follow the following naming conventions:
 1. Start the title of your email with "TD4".
-2. A tgz compressed version of your `MVA\_TD2\__LASTNAME_\__Firstname`
-   folder. The tgz archive must be named according to the following pattern: **MVA\_TP4\__LASTNAME_\__Firstname_.tgz**
+2. A tgz compressed version of your `MVA_TD2_LASTNAME_Firstname`
+   folder. The tgz archive must be named according to the following
+   pattern: **`MVA_TD2_LASTNAME_Firstname_.tgz`**
 
 
