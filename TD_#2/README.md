@@ -50,7 +50,7 @@ Use the SEQUOIA treebank v6.0 (file in the GitHub, bracketed format):
 - Use the last 10% to evaluate your parser. To keep it simple,
   you can evaluate your part-of-speech accuracy only, i.e. via the
   percentage of tokens for which your parser choses the correct
-  part-of-speech. For your information, the standard
+  part-of-speech. For your information, a standard
   tool for constituency parse evaluation is [`evalb`](https://nlp.cs.nyu.edu/evalb/)
 
 IMPORTANT: You must ignore functional labels: whenever you find a hyphen in a non-terminal name, ignore
