@@ -23,15 +23,15 @@ below), made of:
       part-of-speech tag, probability) such that the sum of the
       probabilities for all triples for a given token sums to 1.
 - an OOV module that assigns a (unique) part-of-speech to any token
-  not included in the lexicon extracted from the training corpus,
-  based an embedding lexicon, namely [the FastText embedding file for French
-     distributed by Facebook](https://fasttext.cc/docs/en/crawl-vectors.html). The
+  not included in the lexicon extracted from the training corpus. The
   underlying idea is to assign to an OOV the part-of-speech of a
   "similar" word. This similarity will be computed as a combination of
   formal similarity (to handle spelling errors) and embedding similarity (as
   measured by cosine similarity, i.e. scalar product between
   normalised vectors), to handle both spelling errors and genuine
-  unknown words; you must design a reasonable way to combine these two similarities.
+  unknown words; you must design a reasonable way to combine these two
+  similarities. For embedding similiarity, you will use [the FastText embedding lexicon for French
+     distributed by Facebook](https://fasttext.cc/docs/en/crawl-vectors.html)
 - an implementation of the CYK algorithm that takes tokenised sentences as
       an input. In other words, the input of the parser are files with
       one sentence per line, and each sentence is formed of tokens
@@ -44,13 +44,13 @@ Use the SEQUOIA treebank v6.0 (file in the GitHub, bracketed format):
 - Use the first 10% for development purposes (whatever you want to use them for)
 - Use the last 10% to evaluate your parser
 
-IMPORTANT: I strongly advice you ignore the functional labels: whenever you find a hyphen in a non-terminal name, ignore
+IMPORTANT: You must ignore functional labels: whenever you find a hyphen in a non-terminal name, ignore
 it and everything that follows.
 For instance, let us consider the sentence:
 
         ( (SENT (PP-MOD (P En) (NP (NC 1996))) (PONCT ,) (NP-SUJ (DET la) (NC municipalité)) (VN (V étudie)) (NP-OBJ (DET la) (NC possibilité) (PP (P d') (NP (DET une) (NC construction) (AP (ADJ neuve))))) (PONCT .)))
 
-I recommend you interpret it as:
+You must interpret it as:
 		
         ( (SENT (PP (P En) (NP (NC 1996))) (PONCT ,) (NP (DET la) (NC municipalité)) (VN (V étudie)) (NP (DET la) (NC possibilité) (PP (P d') (NP (DET une) (NC construction) (AP (ADJ neuve))))) (PONCT .)))
 Otherwise you might face sparsity issues.
