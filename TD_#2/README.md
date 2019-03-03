@@ -5,8 +5,9 @@ MVA - Algorithms for Speech and NLP TD 2 (NLP)
 For any question/request related to this course, please send an email to this address: mva.speech.language@gmail.com
 
 ## Assignment details
-**The goal of this assignment is to develop a basic probabilistic parser for French based on the CYK algorithm and the
-PCFG model that is robust to unknown words.**
+**The goal of this assignment is to develop a basic probabilistic
+parser for French that is based on the CYK algorithm and the
+PCFG model and that is robust to unknown words.**
 
 The goal of this assignment is not to produce high-accuracy
 parsers. Its goal is rather for you to build a working statistical constituency parsing
@@ -36,6 +37,9 @@ below), made of:
       an input. In other words, the input of the parser are files with
       one sentence per line, and each sentence is formed of tokens
       separated from one another by whitespace characters.
+
+You must reimplement yourself the CYK algorithm and the Levenstein
+distance computation.
 
 Use the SEQUOIA treebank v6.0 (file in the GitHub, bracketed format):
 
