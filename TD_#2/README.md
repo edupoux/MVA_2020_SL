@@ -39,7 +39,7 @@ below), made of:
       separated from one another by whitespace characters. The output
       should be in the same bracketed format as the training data.
 
-You must reimplement yourself the CYK algorithm and the Levenstein
+You must reimplement yourself the CYK algorithm and the Levenshtein
 distance computation.
 
 Use the SEQUOIA treebank v6.0 (file in the GitHub, bracketed format):
