@@ -94,6 +94,6 @@ Send your tgz archive to mva.speech.language@gmail.com before the  class on Mond
 1. Start the title of your email with "TD4".
 2. A tgz compressed version of your `MVA_TD2_LASTNAME_Firstname`
    folder. The tgz archive must be named according to the following
-   pattern: **`MVA_TD2_LASTNAME_Firstname_.tgz`**
+   pattern: **`MVA_TD2_LASTNAME_Firstname.tgz`**
 
 
