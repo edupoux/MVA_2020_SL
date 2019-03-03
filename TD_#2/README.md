@@ -36,7 +36,8 @@ below), made of:
 - an implementation of the CYK algorithm that takes tokenised sentences as
       an input. In other words, the input of the parser are files with
       one sentence per line, and each sentence is formed of tokens
-      separated from one another by whitespace characters.
+      separated from one another by whitespace characters. The output
+      should be in the same bracketed format as the training data.
 
 You must reimplement yourself the CYK algorithm and the Levenstein
 distance computation.
@@ -46,10 +47,11 @@ Use the SEQUOIA treebank v6.0 (file in the GitHub, bracketed format):
 - Split it into 3 parts (80% / 10% / 10%)
 - Use the 80% for training (extract CFG rules + learn CFG rule probabilities)
 - Use the first 10% for development purposes (whatever you want to use them it)
-- Use the last 10% to evaluate your parser. To do this, you will not
-  evaluate the quality of the parses themselves. To keep it simple,
-  you will only evaluate your part-of-speech accuracy, i.e. the
-  percentage of tokens for which your parser choses the correct part-of-speech.
+- Use the last 10% to evaluate your parser. To keep it simple,
+  you can evaluate your part-of-speech accuracy only, i.e. via the
+  percentage of tokens for which your parser choses the correct
+  part-of-speech. I might evaluate your parser using the standard
+  tool for constituency parse evaluation, namely [`evalb`](https://nlp.cs.nyu.edu/evalb/)
 
 IMPORTANT: You must ignore functional labels: whenever you find a hyphen in a non-terminal name, ignore
 it and everything that follows.
@@ -75,10 +77,17 @@ contains two elements:
        rationale behind the choices you made,
      - a second section with a brief error analysis: what seems to work, what does not? Any idea why? What would you
        suggest to improve your system?
-2. a folder named `system` containing your system. This folder will contain (at least):
+2. a folder named `system` containing your system. This folder will
+   contain three files:
      - a shell script named `run.sh` that reads tokenised text on the standard input (one sentence per line,
        exactly one whitespace between each token, as explained above)
-     - a `README` file describing other options or argument to `run.sh` (or explicitly stating the absence thereof)
+     - a `README` file describing other options or argument to
+     `run.sh` (or explicitly stating the absence thereof)
+	 - the output of your parser on the evaluation dataset (the last
+       10% of the provided treebank). Of course, the input to your
+       parser will be the evaluation dataset from which you will have
+       first removed all annotations, only retaining the raw
+       tokens. This file will be named `evaluation_data.parser_output`
 
 ## Handing the assignment
 Send your tgz archive to mva.speech.language@gmail.com before the  class on Monday, March 18th. You must follow the following naming conventions:
