@@ -45,8 +45,11 @@ Use the SEQUOIA treebank v6.0 (file in the GitHub, bracketed format):
 
 - Split it into 3 parts (80% / 10% / 10%)
 - Use the 80% for training (extract CFG rules + learn CFG rule probabilities)
-- Use the first 10% for development purposes (whatever you want to use them for)
-- Use the last 10% to evaluate your parser
+- Use the first 10% for development purposes (whatever you want to use them it)
+- Use the last 10% to evaluate your parser. To do this, you will not
+  evaluate the quality of the parses themselves. To keep it simple,
+  you will only evaluate your part-of-speech accuracy, i.e. the
+  percentage of tokens for which your parser choses the correct part-of-speech.
 
 IMPORTANT: You must ignore functional labels: whenever you find a hyphen in a non-terminal name, ignore
 it and everything that follows.
@@ -60,9 +63,8 @@ You must interpret it as:
 Otherwise you might face sparsity issues.
 
 
-If you need more information about the CYK algorithm, read [the most
-recent version of Jurafsky and Martin's chapter on Syntactic Parsing](https://web.stanford.edu/~jurafsky/slp3/12.pdf). If you need more information about PCFGs,
-read [the most recent version of Jurafsky and Martin's chapter on Statistical Parsing](https://web.stanford.edu/~jurafsky/slp3/13.pdf).
+If you need more information about PCFGs and/or CYK algorithm, read [the most
+recent version of Jurafsky and Martin's chapter on Syntactic Parsing](https://web.stanford.edu/~jurafsky/slp3/12.pdf).
 
 
 ## Assignment deliverable
