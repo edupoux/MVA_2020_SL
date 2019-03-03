@@ -46,7 +46,7 @@ Use the SEQUOIA treebank v6.0 (file in the GitHub, bracketed format):
 
 - Split it into 3 parts (80% / 10% / 10%)
 - Use the 80% for training (extract CFG rules + learn CFG rule probabilities)
-- Use the first 10% for development purposes (whatever you want to use them it)
+- Use the first 10% for development purposes (whatever you want to use it)
 - Use the last 10% to evaluate your parser. To keep it simple,
   you can evaluate your part-of-speech accuracy only, i.e. via the
   percentage of tokens for which your parser choses the correct
