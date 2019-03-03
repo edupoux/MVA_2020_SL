@@ -31,8 +31,11 @@ below), made of:
   measured by cosine similarity, i.e. scalar product between
   normalised vectors), to handle both spelling errors and genuine
   unknown words; you must design a reasonable way to combine these two
-  similarities. For embedding similiarity, you will use [the FastText embedding lexicon for French
-     trained by Facebook on the French wiktionary](https://fasttext.cc/docs/en/pretrained-vectors.html)
+  similarities. For embedding similarity, you will use
+  [the Polyglot embedding lexicon for French](https://sites.google.com/site/rmyeid/projects/polyglot)
+  (see the
+  [tutorial on Polyglot embeddings](https://nbviewer.jupyter.org/gist/aboSamoor/6046170);
+  you can re-use this code)
 - an implementation of the CYK algorithm that takes tokenised sentences as
       an input. In other words, the input of the parser are files with
       one sentence per line, and each sentence is formed of tokens
