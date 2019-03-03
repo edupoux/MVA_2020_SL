@@ -32,7 +32,7 @@ below), made of:
   normalised vectors), to handle both spelling errors and genuine
   unknown words; you must design a reasonable way to combine these two
   similarities. For embedding similiarity, you will use [the FastText embedding lexicon for French
-     distributed by Facebook](https://fasttext.cc/docs/en/crawl-vectors.html)
+     trained by Facebook on the French wiktionary](https://fasttext.cc/docs/en/pretrained-vectors.html)
 - an implementation of the CYK algorithm that takes tokenised sentences as
       an input. In other words, the input of the parser are files with
       one sentence per line, and each sentence is formed of tokens
