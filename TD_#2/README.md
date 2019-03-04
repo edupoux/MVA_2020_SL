@@ -36,11 +36,16 @@ below), made of:
   (see the
   [tutorial on Polyglot embeddings](https://nbviewer.jupyter.org/gist/aboSamoor/6046170);
   you can re-use this code)
-- an implementation of the CYK algorithm that takes tokenised sentences as
+- a probabilistic implementation of the CYK algorithm that takes tokenised sentences as
       an input. In other words, the input of the parser are files with
       one sentence per line, and each sentence is formed of tokens
       separated from one another by whitespace characters. The output
-      should be in the same bracketed format as the training data.
+      should be in the same bracketed format as the training
+      data. Regarding the probabilistic part, you will adapt the CYK
+      algorithm so that only the best (i.e. most probable) way to
+      rewrite an instanciated non-terminal symbol is retained. This
+      will give you a recursive, straigtforward way to then retrieve
+      the best (i.e. most probable) parse tree for the whole sentence.
 
 You must reimplement yourself the CYK algorithm and the Levenshtein
 distance computation.
