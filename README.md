@@ -30,7 +30,7 @@ Attendance is mandatory.
 - #1 Jan 20,  9:00am-12:00am (Jaures).  Introduction (Sagot & Dupoux)
 - #2 Jan 27, 9:00am-12:00am (Actes).  ASR1: Features and Acoustic Models (Dupoux & Zeghidour)
 - #3 Feb 3, 9:00am-12:00am (Jaures).  ASR2: Language Models (Dupoux, Zeghidour, Riad) + presentation TD#1
-- #4 Feb 10, 9:00am-12:00am (DJaures).  NLP1: Language processing in the wild (Sagot)
+- #4 Feb 10, 9:00am-12:00am (Jaures).  NLP1: Language processing in the wild (Sagot)
 
 **Attention, deadline for returning TD#1 on Monday Feb 17 at 12am: penalty points for late submission start here**
 
