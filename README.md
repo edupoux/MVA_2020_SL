@@ -46,9 +46,9 @@ Attendance is mandatory.
 - #8 Mar 16, 2020, 9:00am-11:00am (Actes).  Perspectives (Sagot & Dupoux)
 
 
-Salles de cours:
+## Where:
 
-- (Jaures): Batiment Jaures; sous-sol. Entrer par le 24 rue Lohmond. (l'entrée par le 29 rue d'Ulm, nécessite un badge)
+- (Jaures): Batiment Jaures; sous-sol. Enter through 24 rue Lohmond. (the 29 rue d'Ulm entrance requires an ENS badge)
 - (Actes): 45 rue d'Ulm, Paris 75005
 
 The course materials (PDFs, etc.) are listed in the subdirectories numbered #1 .. #8. 
