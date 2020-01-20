@@ -30,7 +30,7 @@ University: http://web.stanford.edu/class/cs97si/04-dynamic-programming.pdf
 
 # Practical Assignment
 
-It is available as a python notebook here:  https://goo.gl/mxA5NE
+It is available as a python notebook here: TBA
 
 Works on Chrome and Safari. Does not work on Mozilla
 
