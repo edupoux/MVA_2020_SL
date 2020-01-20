@@ -35,7 +35,7 @@ Attendance is mandatory.
 **Attention, deadline for returning TD#1 on Monday Feb 17 at 12am: penalty points for late submission start here**
 
 - #5 Feb 17, 2020, 9:00am-11:00am (Jaures).  NLP2: Formal languages (Sagot)
-- #6 Feb 24, 2020,  9:00am-11:00am (Jaures).  NLP3: Parsing (Sagot) + presentation TD#2
+- #6 Feb 24, 2020,  9:00am-11:30am (Jaures; 2h30!).  NLP3: Parsing (Sagot) + presentation TD#2
 
 **No course on March 1**
 
