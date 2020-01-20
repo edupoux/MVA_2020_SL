@@ -46,8 +46,10 @@ Attendance is mandatory.
 - #8 Mar 16, 2020, 9:00am-11:00am (Actes).  Perspectives (Sagot & Dupoux)
 
 
-(Jaures): 29 rue d'Ulm, Paris 75005, Ground Floor, left.
-(Actes): 45 rue d'Ulm, Paris 75005
+Salles de cours:
+
+- (Jaures): Batiment Jaures; sous-sol. Entrer par le 24 rue Lohmond. (l'entrée par le 29 rue d'Ulm, nécessite un badge)
+- (Actes): 45 rue d'Ulm, Paris 75005
 
 The course materials (PDFs, etc.) are listed in the subdirectories numbered #1 .. #8. 
 
