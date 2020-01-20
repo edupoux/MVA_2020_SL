@@ -27,23 +27,24 @@ Basic linear algebra, calculus, probability theory
 The courses take place on monday, from 9am to 12am. _Be on time!_
 Attendance is mandatory.
 
-- #1 Jan 20, 2020,  9:00am-12:00am (Jaures).  Introduction (Sagot & Dupoux)
-- #2 Jan 27, 2020, 9:00am-12:00am (Actes).  ASR1: Features and Acoustic Models (Dupoux & Zeghidour)
-- #3 Feb 3, 2020, 9:00am-12:00am (Jaures).  ASR2: Language Models (Dupoux, Zeghidour, Riad) + presentation TD#1
-- #4 Feb 10, 2020, 9:00am-12:00am (Jaures).  NLP1: Language processing in the wild (Sagot)
+- #1 Jan 20, 2020,  9:00am-11:00am (Jaures).  Introduction (Sagot & Dupoux)
+- #2 Jan 27, 2020, 9:00am-11:00am (Actes).  ASR1: Features and Acoustic Models (Dupoux & Zeghidour)
+- #3 Feb 3, 2020, 9:00am-12:00am (Jaures; 3 hours!).  ASR2: Language Models (Dupoux, Zeghidour, Riad) + presentation TD#1
+- #4 Feb 10, 2020, 9:00am-11:00am (Jaures).  NLP1: Language processing in the wild (Sagot)
 
 **Attention, deadline for returning TD#1 on Monday Feb 17 at 12am: penalty points for late submission start here**
 
-- #5 Feb 17, 2020, 9:00am-12:00am (Jaures).  NLP2: Formal languages (Sagot)
-- #6 Feb 24, 2020,  9:00am-12:00am (Jaures).  NLP3: Parsing (Sagot) + presentation TD#2
+- #5 Feb 17, 2020, 9:00am-11:00am (Jaures).  NLP2: Formal languages (Sagot)
+- #6 Feb 24, 2020,  9:00am-11:00am (Jaures).  NLP3: Parsing (Sagot) + presentation TD#2
 
 **No course on March 1**
 
-- #7 Mar 9, 2020, 9:00am-12:00am (Jaures).  Translation (Guest: Schwenk) 
+- #7 Mar 9, 2020, 9:00am-11:00am (Jaures).  Translation (Guest: Schwenk) 
 
 **Attention, deadline for returning TD#2 on Monday Mar 16 at 12am: penalty points for late submission start here**
 
-- #8 Mar 16, 2020, 9:00am-12:00am (Actes).  Perspectives (Sagot & Dupoux)
+- #8 Mar 16, 2020, 9:00am-11:00am (Actes).  Perspectives (Sagot & Dupoux)
+
 
 (Jaures): 29 rue d'Ulm, Paris 75005, Ground Floor, left.
 (Actes): 45 rue d'Ulm, Paris 75005
