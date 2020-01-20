@@ -6,4 +6,4 @@ E. Dupoux, B. Sagot
 
 ## Reading materials
 
-- slides of the course: MVA 2018 Speech-NLP\_ course 1. General Introduction.pdf
+- slides of the course: MVA 2020 Speech-NLP\_ course 1. General Introduction.pdf
