@@ -48,7 +48,9 @@ below), made of:
       the best (i.e. most probable) parse tree for the whole sentence.
 
 You must reimplement yourself the CYK algorithm and the Levenshtein
-distance computation.
+distance computation. For other modules, you can use the NLTK library, if you find that it
+suits your needs. However, reimplementing a module (e.g. tokenisation) rather than using NLTK functions will
+always be rewarded.
 
 Use the SEQUOIA treebank v6.0 (file in the GitHub, bracketed format):
 
@@ -98,10 +100,11 @@ contains two elements:
        tokens. This file will be named `evaluation_data.parser_output`
 
 ## Handing the assignment
-Send your tgz archive to mva.speech.language@gmail.com before the  class on Monday, March 18th. You must follow the following naming conventions:
+Send your **tgz** archive to mva.speech.language@gmail.com before
+Monday, March 9th, midnight. You must follow the following naming conventions:
 1. Start the title of your email with "TD2".
-2. A tgz compressed version of your `MVA_TD2_LASTNAME_Firstname`
-   folder. The tgz archive must be named according to the following
+2. The tgz compressed version of your `MVA_TD2_LASTNAME_Firstname`
+   folder must be named according to the following
    pattern: **`MVA_TD2_LASTNAME_Firstname.tgz`**
 
 
