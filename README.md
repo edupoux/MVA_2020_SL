@@ -39,7 +39,7 @@ Attendance is mandatory.
 
 **No course on March 1**
 
-- #7 Mar 9, 2020, 9:00am-11:00am (Jaures).  Translation (Guest: Schwenk) 
+- #7 Mar 9, 2020, 9:00am-12:00am (Jaures).  Translation (Guest: Schwenk) 
 
 **Attention, due to the Coronavirus outbreak, Holger Schwenk will give his course remotely. If you are yourself unable to come to ENS Salle Jaures, you will be able to follow his course remotely on** https://bluejeans.com/159624009
 
