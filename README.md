@@ -48,6 +48,8 @@ Attendance is mandatory.
 
 - #8 Mar 16, 2020, 9:00am-11:00am (Actes).  Perspectives (Sagot & Dupoux)
 
+**Attention, due to the Coronavirus outbreak, you are encouraged to attend to the course of Emmanuel Dupoux and Benoit Sagot  remotely. As far as we know, ENS is still open so you can go in Salle des actes for a projection of the course, or follow the course remotely on** https://fb.bluejeans.com/742930621
+
 
 ## Where:
 
