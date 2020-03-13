@@ -43,9 +43,9 @@ Attendance is mandatory.
 
 **Attention, deadline for returning TD#2 on Monday Mar 16 at 12am: penalty points for late submission start here**
 
-- #8 Mar 16, 2020, 9:00am-11:00am (Actes).  Perspectives (Sagot & Dupoux)
+- #8 Mar 16, 2020, 9:00am-11:30am (Actes).  Perspectives (Sagot & Dupoux)
 
-**Attention, due to the Coronavirus outbreak, the course of Emmanuel Dupoux and Benoit Sagot will not take place in Salle des Actes, but be delivered remotely. Please connect on** https://fb.bluejeans.com/742930621
+**Attention, due to the Coronavirus outbreak, the course of Emmanuel Dupoux and Benoit Sagot will not take place in Salle des Actes, but be delivered remotely at the same schedule (9:00am-11:30am). Please, put your microphone on MUTE when connecting on** https://fb.bluejeans.com/742930621
 
 
 ## Where:
